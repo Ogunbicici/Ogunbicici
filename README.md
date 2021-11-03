@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ogunbicici
 - 👀 I’m interested in Web development and game development
-- 🌱 I’m currently learning c# asp.net (entity framework)
+- 🌱 I’m currently learning c# asp.net (entity framework) / Web development Html,Css,Javascript (Vue Js) / Microsoft Sql, Oracle...
 - 💞️ I’m looking to work as a front-end dev
